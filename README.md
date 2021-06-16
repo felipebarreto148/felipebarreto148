@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div>
   <img alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipebarreto148&show_icons=true&theme=vue-dark">  
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarreto148&layout=compact&hide=shell&theme=vue-dark">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarreto148&layout=compact&hide=vim%20script&theme=midnight-purple&langs_count=5">
 </div>
