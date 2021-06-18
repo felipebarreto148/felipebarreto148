@@ -1,4 +1,4 @@
-### Bem vindo!!
+<h1 align="center">Bem Vindo!</h1>
 
 <!--
 **felipebarreto148/felipebarreto148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipebarreto148&show_icons=true&theme=vue-dark">  
+<div align="center">
+  <img alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipebarreto148&show_icons=true&theme=vue-dark"> 
+  <br>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarreto148&layout=compact&hide=vim%20script&theme=vue-dark&langs_count=5">
 </div>
