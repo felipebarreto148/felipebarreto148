@@ -51,8 +51,8 @@
 
 <h2>Mais informações</h2>
 <div align="center">
-  <img height="200" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipebarreto148&show_icons=true&theme=vue-dark"> 
-  <img height="200" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarreto148&layout=compact&hide=vim%20script&theme=vue-dark&langs_count=5">
+  <img height="150" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipebarreto148&show_icons=true&theme=vue-dark"> 
+  <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarreto148&layout=compact&hide=vim%20script&theme=vue-dark&langs_count=5">
 </div>
 
 <!--
