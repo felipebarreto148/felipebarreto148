@@ -13,7 +13,6 @@
   <img src="assets/vue.svg" width="25" height="25" />
   <img src="assets/sass.svg" width="25" height="25" /> 
   <img src="assets/node.svg" width="25" height="25" /> 
-  <img src="assets/typescript.svg" width="25" height="25" /> 
   <img src="assets/git.svg" width="25" height="25" /> 
   <img src="assets/vsc.svg" width="25" height="25" />
 </p>
