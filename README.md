@@ -37,7 +37,7 @@
 
 <h2>🧐 Onde me encontrar?</h2>
 <div align="left"> 
-  <a href="www.linkedin.com/in/felipe-barreto-56a165187" alt="linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/barretof20/" alt="linkedin" target="_blank">
     <img width="100px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:felipebarreto148@gmail.com" alt="gmail" target="_blank">
