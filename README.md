@@ -7,15 +7,17 @@
 
 <h2> 🛠️ Skills </h2>
 <p>
-  <img src="assets/html.svg" width="25" height="25" /> 
-  <img src="assets/css-3.svg" width="25" height="25" /> 
-  <img src="assets/javascript.svg" width="25" height="25" />
-  <img src="assets/typescript.svg" width="25" height="25" />
-  <img src="assets/vue.svg" width="25" height="25" />
-  <img src="assets/sass.svg" width="25" height="25" /> 
-  <img src="assets/node.svg" width="25" height="25" /> 
-  <img src="assets/git.svg" width="25" height="25" /> 
-  <img src="assets/vsc.svg" width="25" height="25" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <h2>:woman_technologist: Experiências profissionais</h2>
