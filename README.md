@@ -23,11 +23,11 @@
 
 <h2>:woman_technologist: Experiências profissionais</h2>
   <h3>Desenvolvedor Front-end</h3>
-  <h4>&emsp;3S, Rio de Janeiro Brasil – (11/2021 - o momento)</h4>
+  <h4>&emsp;3S, Rio de Janeiro Brasil – (11/2021 - 07/2022)</h4>
   <p>&emsp;Desenvolvimento de novas features e manutenção da plataforma, utilizando o framework Vue JS, também foi é utilizado no cotidiano as ferramentas como SCSS, Vuetify e Typescript.</p>
   
   <h3>Desenvolvedor Front-end</h3>
-  <h4>&emsp;Fintask, Rio de Janeiro Brasil – (07/2021 - o momento)</h4>
+  <h4>&emsp;Fintask, Rio de Janeiro Brasil – (07/2021 - 07/2022)</h4>
   <p>&emsp;Desenvolvimento de novas features e manutenção da plataforma, utilizando o framework Vue JS, também foi é utilizado no cotidiano as ferramentas SCSS e Vuetify.</p>
 
   <h3>Auxiliar de programação</h3>
