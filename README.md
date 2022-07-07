@@ -1,4 +1,16 @@
-<h1 align="left">Felipe Barreto</h1>
+<h1 align="center">Felipe Barreto</h1>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/barretof20/" alt="linkedin" target="_blank">
+    <img width="100px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:felipebarreto148@gmail.com" alt="gmail" target="_blank">
+    <img width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/felipebarreto148" alt="github" target="_blank">
+    <img width="80px" src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+  </a>
+</div>
+<br />
 <blockquote>
   Atualmente, sou desenvolvedor Front end com Vue JS. <br />
   Natural do Rio de Janeiro - RJ. <br />
@@ -38,19 +50,6 @@
   <h4>&emsp;Citta Telecom, Rio de Janeiro Brasil – (02/2020 - 01/2021) - Estágio<h4>
   <p>&emsp;Programador web. Tecnologias usadas: HTML, JS, JQuery, SQL, Plataforma Fluig (ECM, BPM, Analytics).</p>
 
-
-<h2>🧐 Onde me encontrar?</h2>
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/barretof20/" alt="linkedin" target="_blank">
-    <img width="100px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:felipebarreto148@gmail.com" alt="gmail" target="_blank">
-    <img width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/felipebarreto148" alt="github" target="_blank">
-    <img width="80px" src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
-  </a>
-</div>
 
 <h2>Mais informações</h2>
 <div align="center">
