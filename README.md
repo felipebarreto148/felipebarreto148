@@ -34,6 +34,9 @@
 </p>
 
 <h2>:woman_technologist: Experiências profissionais</h2>
+<h3>Desenvolvedor Front-end Pleno</h3>
+  <h4>&emsp;G Digital, Rio de Janeiro Brasil – (07/2022 - o momento)</h4>
+  <p>&emsp;Desenvolvimento de novas features e manutenção da plataforma, utilizando o framework Vue JS e Bootstrap Vue.</p>
   <h3>Desenvolvedor Front-end</h3>
   <h4>&emsp;3S, Rio de Janeiro Brasil – (11/2021 - 07/2022)</h4>
   <p>&emsp;Desenvolvimento de novas features e manutenção da plataforma, utilizando o framework Vue JS, também foi é utilizado no cotidiano as ferramentas como SCSS, Vuetify e Typescript.</p>
